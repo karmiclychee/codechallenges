@@ -38,8 +38,7 @@ class DigitsSum
     end
     workarray[0]
   end
-
 end
 
-roygbiv = DigitsSum.new(11)
+roygbiv = DigitsSum.new(31337)
 puts roygbiv.integer
