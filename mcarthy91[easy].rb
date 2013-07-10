@@ -18,7 +18,7 @@ end
 
 def mccarthy(n)
   puts "M(#{n})"
-  puts "#{m(n)} since #{m(n)+11} is greater than 100"
+  puts "#{m(n)} since #{m(n)+10} is greater than 100"
 end
 
-puts mccarthy(99)
+puts mccarthy(1)
